@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-
-
-<div align="center">
   <h1 align="center">✨ Richie Sebastian ✨</h1>
   <img src="https://img.shields.io/badge/DevOps%20Architect%20%7C%20Cloud%20Expert%20%7C%20Tech%20Leader-blueviolet?style=for-the-badge" alt="Welcome Badge" />
 </div>
@@ -94,8 +88,14 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 ### 📈 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=richiesebastian&show_icons=true&theme=radical" alt="Richie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richiesebastian&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Richie's Streak Stats" />
+  
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
