@@ -100,20 +100,19 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 - 💸 Established **Cloud FinOps** strategies to optimize costs while ensuring performance and scalability.
 - 🔑 Configured **Azure Key Vault**, **AWS KMS**, and **IAM Policies** for data security and access control, ensuring compliance with industry standards.
 
----
-
 ### 💻 Open Source Contributions
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Contributing+to+the+Kubernetes+Ecosystem;Engaging+with+the+Open+Source+Community;Driving+Innovative+Multi-Cluster+Solutions" alt="Typing Animation" />
-</div>
 
-- 🌐 **Active Contributor**: I’m an active open-source contributor, especially within the **Kubernetes ecosystem**.
-- 🔧 **Project Management**: I manage and contribute to the [KubeSlice](https://github.com/kubeslice/kubeslice) project, a **CNCF-certified sandbox project** that enables multi-cluster Kubernetes networking for secure and efficient communication across clusters.
-- 🎓 **Community Engagement**: Hosted a hands-on **KubeSlice** workshop at **Kubernetes Community Days (KCD) Pune 2024**—an opportunity to showcase KubeSlice's practical applications in multi-cluster networking.
+<br>
+
+- 🌐 **Active Contributor**: I’m an active open-source contributor, particularly within the **Kubernetes ecosystem**.
+- 🔧 **Project Management**: I manage and contribute to the [KubeSlice](https://github.com/kubeslice/kubeslice) project, a **CNCF-certified sandbox project** that facilitates multi-cluster Kubernetes networking for secure, efficient communication across clusters.
+- 🎓 **Community Engagement**: Hosted a hands-on **KubeSlice** workshop at **Kubernetes Community Days (KCD) Pune 2024**, showcasing KubeSlice's applications in multi-cluster networking.
 - 🛠️ **Key Contributions**: 
   - **GitOps Automation**: Developed a GitOps approach using **Ansible** to automate KubeSlice deployments.
-  - **Pipeline Management**: Led core build and release pipelines to streamline development processes and enhance deployment efficiency.
+  - **Pipeline Management**: Led core build and release pipelines to streamline development and enhance deployment efficiency.
   - **CNCF Compliance**: Actively engaged in the **CNCF Sandbox Certification Process**, ensuring adherence to CNCF standards.
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
@@ -122,6 +121,7 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 </div>
 
 ---
+
 
 ### 📫 Let's Connect!
 
