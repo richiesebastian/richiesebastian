@@ -10,11 +10,20 @@ Welcome to my GitHub profile! I'm an experienced **DevOps and Cloud Architect** 
 ---
 
 ### 🚀 About Me
-- 🌱 **Current Role**: Head of DevOps, Engineering Manager at Avesha Systems
-- 🏗️ Passionate about building robust CI/CD pipelines, multi-cloud architecture, and automating infrastructure.
-- 🌐 Specializing in **multi-cloud deployments** (AWS, Azure, GCP, IBM Cloud) and **on-premise** setups like Vsphere and Phoenix-Nap.
-- 🔐 Strong focus on security, performance, and scalability across cloud and DevOps solutions.
-- 📫 How to reach me: [richiesebastian20@gmail.com](mailto:richiesebastian20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/richie-s-8b545183)
+
+- 🌱 **Current Role**: **Head of DevOps, Engineering Manager** at **Avesha Systems**
+- 🛠️ Over 10 years of experience in **DevOps**, **Cloud Engineering**, and **Infrastructure Automation** with a proven track record in managing large-scale cloud deployments.
+- 🏗️ Passionate about building robust **CI/CD pipelines**, **multi-cloud architectures**, and fully automated infrastructure for improved efficiency and scalability.
+- 🌐 **Specializations**: Multi-cloud deployments across **AWS** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws), **Azure** ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure), **GCP** ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud), **IBM Cloud** ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat&logo=ibm-cloud), and on-premise setups like **Vsphere** and **Phoenix-Nap** for high-performance computing.
+- 🔐 **Focus Areas**: Security, performance, and scalability across cloud and DevOps solutions, with expertise in **Infrastructure as Code (IaC)**, **Cloud Security**, and **Compliance**.
+- 🧑‍🤝‍🧑 **Leadership**: Skilled in team building and mentoring, with hands-on experience managing a team to deliver DevOps best practices and scalable infrastructure solutions across multi-cloud environments.
+- 📈 **Core Technologies**:
+  - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud) ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat&logo=ibm-cloud)
+  - **CI/CD**: ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
+  - **Monitoring & Logging**: ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana) ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)
+
+- 📫 **Get in Touch**: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:richiesebastian20@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richie-s-8b545183)
+
 
 ---
 
@@ -38,25 +47,41 @@ Welcome to my GitHub profile! I'm an experienced **DevOps and Cloud Architect** 
 
 ### 📂 Key Projects & Contributions
 
-- **Multi-Cloud Infrastructure Automation**  
-  Designed infrastructure automation for **AWS**, **Azure**, **GCP**, and **IBM Cloud**. Created Ansible scripts to automate product deployment across these platforms, reducing manual efforts.
+#### 🌐 **Multi-Cloud Infrastructure Automation**
+- Designed and implemented infrastructure automation for **AWS** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws), **Azure** ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure), **GCP** ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud), and **IBM Cloud** ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat&logo=ibm-cloud).
+- Automated deployment workflows by creating **Ansible** ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible) scripts, reducing manual effort across platforms and ensuring consistency in deployment on **multi-cloud Kubernetes** clusters.
+- Leveraged **Terraform** ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform) and **CloudFormation** for Infrastructure as Code (IaC) to streamline provisioning and management.
 
-- **CI/CD Pipeline Development**  
-  Developed CI/CD pipelines using **GitHub Actions** and **Terragrunt** for **Kubernetes** clusters, with automated testing via **Ginkgo**.
+#### ⚙️ **End-to-End CI/CD Pipeline Development**
+- Developed fully automated CI/CD pipelines using **GitHub Actions** ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions), **Jenkins** ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins), and **Terragrunt** for deploying applications on **Kubernetes** ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) clusters.
+- Integrated **Ginkgo** for automated testing, enabling continuous deployment with high reliability and reducing release cycles.
+- Implemented enterprise-level CI/CD workflows for managing complex multi-service deployments, incorporating **Nexus** for artifact management, **SonarQube** for code quality checks, and **JFrog Artifactory** for secure storage.
 
-- **Monitoring and Logging**  
-  Implemented logging and monitoring stacks using **Prometheus**, **Grafana**, **ELK Stack**, and **Splunk** for enhanced observability.
+#### 🔍 **Monitoring, Logging, and Observability**
+- Built comprehensive monitoring and logging solutions with **Prometheus** ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus), **Grafana** ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana), **ELK Stack (Elasticsearch, Logstash, Kibana)**, and **Splunk** ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk).
+- Enhanced observability by setting up **AppDynamics** and **Dynatrace** for real-time application monitoring, facilitating proactive troubleshooting and performance optimization.
+- Established robust alerting mechanisms to ensure rapid incident response and improve uptime across multi-cloud environments.
 
-- **Big Data Solutions**  
-  Designed architectures for big data using **Azure HD Insights**, **Azure Data Factory**, and **Apache Spark**, managing data ingestion pipelines in cloud environments.
+#### 🧩 **Big Data & Data Engineering Solutions**
+- Designed and implemented big data architectures with **Azure HD Insights** ![Azure HD Insights](https://img.shields.io/badge/-Azure%20HD%20Insights-0078D4?style=flat&logo=microsoft-azure), **Azure Data Factory**, and **Apache Spark** ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark).
+- Managed end-to-end data ingestion pipelines, leveraging **Azure Databricks** for big data processing and transforming unstructured data to actionable insights.
+- Created data lakes using **Azure Storage** solutions for efficient storage and analysis, handling structured and unstructured data with **Apache Kafka** and **Zookeeper** for real-time streaming.
+
+#### 🔐 **Cloud Security & Compliance**
+- Implemented cloud security best practices, including IAM configurations, VPC setups, and **GuardDuty** for security monitoring across AWS environments.
+- Established **Cloud FinOps** best practices to optimize cloud costs while maintaining high performance and scalability.
+- Configured **Azure Key Vault**, **AWS KMS**, and **IAM Policies** to secure sensitive data and control access, ensuring compliance with industry standards.
 
 ---
 
 ### 📝 Certifications
-- **SAFe® 5 Scrum Master** - 2022
-- **Certified Kubernetes Administrator (CKA)** - 2023
-- **Certified Kubernetes Application Developer (CKAD)** - 2023
-- **Certified Kubernetes Security Specialist (CKS)** - 2023
+
+- ![SAFe](https://img.shields.io/badge/SAFe®%205%20Scrum%20Master-2022-0a0a0a?style=flat&logo=safe) **SAFe® 5 Scrum Master** - 2022
+- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Administrator (CKA)** - 2023
+- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer%20(CKAD)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Application Developer (CKAD)** - 2023
+- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Security Specialist (CKS)** - 2023
+
+
 
 ---
 
@@ -78,7 +103,17 @@ Welcome to my GitHub profile! I'm an experienced **DevOps and Cloud Architect** 
 ---
 
 ### 💻 Open Source Contributions
-I'm an active open-source contributor, particularly within the **Kubernetes ecosystem**. I manage and contribute to [KubeSlice](https://github.com/kubeslice/kubeslice), a CNCF-certified sandbox project. I hosted a workshop on KubeSlice at **KCD-PUNE 2024**!
+
+- 🌐 I'm an active open-source contributor, particularly within the **Kubernetes ecosystem**.
+- 🔧 I manage and contribute to the [KubeSlice](https://github.com/kubeslice/kubeslice) project, a **CNCF-certified sandbox project**. This project enables multi-cluster Kubernetes networking, allowing secure and efficient communication across clusters.
+- 🎓 Recently hosted a hands-on **KubeSlice** workshop at **Kubernetes Community Days (KCD) Pune 2024**. The event was a great opportunity to engage with the community, showcase practical applications of KubeSlice, and demonstrate multi-cluster networking capabilities.
+- 🛠️ **Key Contributions**: 
+  - **GitOps** approach using **Ansible** to automate KubeSlice deployments.
+  - Managing core build and release pipelines to streamline development processes and improve deployment efficiency.
+  - Actively engaging in the **CNCF Sandbox Certification Process**, ensuring adherence to CNCF standards and best practices.
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) ![CNCF](https://img.shields.io/badge/-CNCF-0052CC?style=flat&logo=cloudfoundry) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible)
+
 
 ---
 
