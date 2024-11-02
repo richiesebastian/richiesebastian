@@ -33,14 +33,12 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 - ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Security Specialist (CKS)** - 2023
 
 
-
 ### 📈 GitHub Stats
 
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=richiesebastian&show_icons=true&theme=radical" alt="Richie's GitHub Stats" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Richie's Streak Stats" />
+<!-- Streak Stats -->  <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Richie's Streak Stats" />
   <!-- Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
