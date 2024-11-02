@@ -9,6 +9,31 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 ---
 
+### 🛠️ Tech Stack & Skills
+
+#### **Languages and Tools**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div>
+
+### 📝 Certifications
+
+- ![SAFe](https://img.shields.io/badge/SAFe®%205%20Scrum%20Master-2022-0a0a0a?style=flat&logo=safe) **SAFe® 5 Scrum Master** - 2022
+- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Administrator (CKA)** - 2023
+- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer%20(CKAD)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Application Developer (CKAD)** - 2023
+- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Security Specialist (CKS)** - 2023
+
+
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -50,21 +75,6 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### **Languages and Tools**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</div>
 
 ---
 
@@ -97,18 +107,8 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 ---
 
-### 📝 Certifications
-
-- ![SAFe](https://img.shields.io/badge/SAFe®%205%20Scrum%20Master-2022-0a0a0a?style=flat&logo=safe) **SAFe® 5 Scrum Master** - 2022
-- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Administrator (CKA)** - 2023
-- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer%20(CKAD)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Application Developer (CKAD)** - 2023
-- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Security Specialist (CKS)** - 2023
-
-
 
 ---
-
-
 
 ### 💻 Open Source Contributions
 
