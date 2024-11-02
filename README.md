@@ -3,8 +3,10 @@
 </div>
 
 
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Hi%20there,%20I'm%20Richie%20Sebastian%20👋-DevOps%20Architect%20%7C%20Cloud%20Expert%20%7C%20Tech%20Leader-blueviolet?style=for-the-badge" alt="Welcome Badge" />
+  <h1 align="center">✨ Richie Sebastian ✨</h1>
+  <img src="https://img.shields.io/badge/DevOps%20Architect%20%7C%20Cloud%20Expert%20%7C%20Tech%20Leader-blueviolet?style=for-the-badge" alt="Welcome Badge" />
 </div>
 
 ---
