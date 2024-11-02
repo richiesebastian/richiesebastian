@@ -127,8 +127,10 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 <div align="center">
   <!-- Animated waving hand -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px" alt="waving hand" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="waving hand" />
+  
   <br><br>
+
   <a href="https://www.linkedin.com/in/richie-s-8b545183" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
