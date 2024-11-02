@@ -39,10 +39,8 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=richiesebastian&show_icons=true&theme=radical" alt="Richie's GitHub Stats" />
-  
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Richie's Streak Stats" />
-  
   <!-- Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
@@ -52,7 +50,7 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richiesebastian&theme=dracula&margin-w=15&margin-h=15&no-frame=true" alt="Richie's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=richiesebastian&theme=dracula&margin-w=15&margin-h=15&no-frame=false" alt="Richie's GitHub Trophies" />
 </div>
 
 ---
@@ -71,10 +69,6 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
   - **Monitoring & Logging**: ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana) ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)
 
 - 📫 **Get in Touch**: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:richiesebastian20@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richie-s-8b545183)
-
-
----
-
 
 ---
 
@@ -107,9 +101,6 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 ---
 
-
----
-
 ### 💻 Open Source Contributions
 
 - 🌐 I'm an active open-source contributor, particularly within the **Kubernetes ecosystem**.
@@ -121,7 +112,6 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
   - Actively engaging in the **CNCF Sandbox Certification Process**, ensuring adherence to CNCF standards and best practices.
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) ![CNCF](https://img.shields.io/badge/-CNCF-0052CC?style=flat&logo=cloudfoundry) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible)
-
 
 ---
 
