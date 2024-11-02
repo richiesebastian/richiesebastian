@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Richie+Sebastian+%F0%9F%91%8B;DevOps+Architect+%7C+Cloud+Expert+%7C+Tech+Leader" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Hi%20there,%20I'm%20Richie%20Sebastian%20👋-DevOps%20Architect%20%7C%20Cloud%20Expert%20%7C%20Tech%20Leader-blueviolet?style=for-the-badge" alt="Welcome Badge" />
 </div>
+
 
 ---
 
