@@ -2,10 +2,9 @@
   <img src="https://img.shields.io/badge/Hi%20there,%20I'm%20Richie%20Sebastian%20👋-DevOps%20Architect%20%7C%20Cloud%20Expert%20%7C%20Tech%20Leader-blueviolet?style=for-the-badge" alt="Welcome Badge" />
 </div>
 
-
 ---
 
-Welcome to my GitHub profile! I'm an experienced **DevOps and Cloud Architect** with deep expertise in **Cloud Computing**, **Infrastructure Automation**, **Big Data**, and **Containerization Technologies**. Here, you’ll find my open-source projects, contributions, and more.
+Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with over a decade of hands-on experience in **Cloud Computing**, **Infrastructure Automation**, **Big Data Solutions**, and **Container Orchestration**. As the **Head of DevOps** at **Avesha Systems**, I lead a team of engineers in delivering scalable, secure, and high-performance infrastructure solutions across multi-cloud environments.
 
 ---
 
