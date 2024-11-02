@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 - ![CKS](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-
 ### 📈 GitHub Stats
 
 <div align="center">
