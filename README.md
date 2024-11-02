@@ -27,10 +27,11 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 ### 📝 Certifications
 
-- ![SAFe](https://img.shields.io/badge/SAFe®%205%20Scrum%20Master-2022-0a0a0a?style=flat&logo=safe) **SAFe® 5 Scrum Master** - 2022
-- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Administrator (CKA)** - 2023
-- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer%20(CKAD)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Application Developer (CKAD)** - 2023
-- ![Kubernetes](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=flat&logo=kubernetes&logoColor=white) **Certified Kubernetes Security Specialist (CKS)** - 2023
+- ![SAFe](https://img.shields.io/badge/SAFe®%205%20Scrum%20Master-2022-0a0a0a?style=for-the-badge&logo=safe&logoColor=white) 
+- ![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-2023-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+- ![CKAD](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer%20(CKAD)-2023-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+- ![CKS](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist%20(CKS)-2023-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
 ### 📈 GitHub Stats
