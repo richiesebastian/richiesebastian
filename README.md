@@ -37,11 +37,12 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 ### 📈 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=richiesebastian&show_icons=true&theme=radical" alt="Richie's GitHub Stats" />
-<!-- Streak Stats -->  <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Richie's Streak Stats" />
+  <!-- GitHub Stats and Streak Stats side-by-side with smaller width -->
+  <img src="https://github-readme-stats.vercel.app/api?username=richiesebastian&show_icons=true&theme=radical&hide_border=true" width="45%" alt="Richie's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="Richie's Streak Stats" />
+  
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="90%" />
 </div>
 
 ---
@@ -49,7 +50,7 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richiesebastian&theme=dracula&margin-w=15&margin-h=15&no-frame=false" alt="Richie's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=richiesebastian&theme=dracula&margin-w=5&margin-h=5&no-frame=true&row=1&column=6" alt="Richie's GitHub Trophies" />
 </div>
 
 ---
