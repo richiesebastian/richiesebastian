@@ -1,38 +1,61 @@
-# Hi there, I'm Richie Sebastian 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Richie+Sebastian+%F0%9F%91%8B;DevOps+Architect+%7C+Cloud+Expert+%7C+Tech+Leader" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with extensive experience in **Cloud Computing**, **Big Data**, and **Containerization Technologies**. Here, you’ll find my open-source projects, contributions, and more.
+---
+
+Welcome to my GitHub profile! I'm an experienced **DevOps and Cloud Architect** with deep expertise in **Cloud Computing**, **Infrastructure Automation**, **Big Data**, and **Containerization Technologies**. Here, you’ll find my open-source projects, contributions, and more.
 
 ---
 
 ### 🚀 About Me
 - 🌱 **Current Role**: Head of DevOps, Engineering Manager at Avesha Systems
-- 🌐 Specializing in multi-cloud infrastructure, CI/CD automation, and container orchestration.
-- 💬 Ask me about **Cloud Architecture**, **Kubernetes**, **AWS & Azure Infrastructure**, **Microservices**, and **Open Source**.
+- 🏗️ Passionate about building robust CI/CD pipelines, multi-cloud architecture, and automating infrastructure.
+- 🌐 Specializing in **multi-cloud deployments** (AWS, Azure, GCP, IBM Cloud) and **on-premise** setups like Vsphere and Phoenix-Nap.
+- 🔐 Strong focus on security, performance, and scalability across cloud and DevOps solutions.
 - 📫 How to reach me: [richiesebastian20@gmail.com](mailto:richiesebastian20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/richie-s-8b545183)
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### **Languages and Tools**
 
-#### DevOps & Cloud
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div>
 
-#### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+---
+
+### 📂 Key Projects & Contributions
+
+- **Multi-Cloud Infrastructure Automation**  
+  Designed infrastructure automation for **AWS**, **Azure**, **GCP**, and **IBM Cloud**. Created Ansible scripts to automate product deployment across these platforms, reducing manual efforts.
+
+- **CI/CD Pipeline Development**  
+  Developed CI/CD pipelines using **GitHub Actions** and **Terragrunt** for **Kubernetes** clusters, with automated testing via **Ginkgo**.
+
+- **Monitoring and Logging**  
+  Implemented logging and monitoring stacks using **Prometheus**, **Grafana**, **ELK Stack**, and **Splunk** for enhanced observability.
+
+- **Big Data Solutions**  
+  Designed architectures for big data using **Azure HD Insights**, **Azure Data Factory**, and **Apache Spark**, managing data ingestion pipelines in cloud environments.
+
+---
+
+### 📝 Certifications
+- **SAFe® 5 Scrum Master** - 2022
+- **Certified Kubernetes Administrator (CKA)** - 2023
+- **Certified Kubernetes Application Developer (CKAD)** - 2023
+- **Certified Kubernetes Security Specialist (CKS)** - 2023
 
 ---
 
@@ -53,27 +76,23 @@ Welcome to my GitHub profile! I'm a seasoned **DevOps and Cloud Architect** with
 
 ---
 
-### 📝 Certifications
-- **SAFe® 5 Scrum Master** - 2022
-- **Certified Kubernetes Administrator (CKA)** - 2023
-- **Certified Kubernetes Application Developer (CKAD)** - 2023
-- **Certified Kubernetes Security Specialist (CKS)** - 2023
-
----
-
 ### 💻 Open Source Contributions
-I'm an active open-source contributor, particularly within the **Kubernetes ecosystem**. I manage and contribute to [KubeSlice](https://github.com/kubeslice/kubeslice), handling the core components’ build and release pipeline. Recently, I hosted a hands-on workshop at KCD-PUNE 2024!
-
-![Open Source](https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+I'm an active open-source contributor, particularly within the **Kubernetes ecosystem**. I manage and contribute to [KubeSlice](https://github.com/kubeslice/kubeslice), a CNCF-certified sandbox project. I hosted a workshop on KubeSlice at **KCD-PUNE 2024**!
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richie-s-8b545183)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/richiesebastian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richiesebastian20@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/richie-s-8b545183"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/richiesebastian"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:richiesebastian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 *Thanks for visiting my profile! Let’s connect and collaborate on new ideas and projects.* 😊
