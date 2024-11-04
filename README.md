@@ -151,18 +151,23 @@ I'm a seasoned **DevOps and Cloud Architect** with over a decade of hands-on exp
 ### 📫 Let's Connect!
 
 <div align="center">
-  <!-- Animated waving hand -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="waving hand" />
-  
+  <!-- Animated Waving Hand -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="45px" alt="waving hand" />
+
   <br><br>
 
+  <!-- Vibrant Social Icons -->
   <a href="https://www.linkedin.com/in/richie-s-8b545183" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:richiesebastian20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email" />
+  </a>
+  <a href="https://github.com/richiesebastian" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" />
   </a>
 </div>
+
 
 ---
 
