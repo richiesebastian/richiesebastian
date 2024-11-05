@@ -5,7 +5,7 @@
 
 ---
 
-I'm a seasoned **DevOps and Cloud Architect** with over a decade of hands-on experience in **Cloud Computing**, **Infrastructure Automation**, **Big Data Solutions**, and **Container Orchestration**. As the **Head of DevOps** at **Avesha Systems**, I lead a team of engineers in delivering scalable, secure, and high-performance infrastructure solutions across multi-cloud environments.
+<span style="font-size: 1.50em;">I'm a seasoned DevOps and Cloud Architect with over a decade of hands-on experience in Cloud Computing, Infrastructure Automation, Big Data Solutions, and Container Orchestration. As the Head of DevOps at Avesha Systems, I lead a team of engineers in delivering scalable, secure, and high-performance infrastructure solutions across multi-cloud environments.</span>
 
 ---
 
