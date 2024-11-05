@@ -166,7 +166,14 @@ I'm a seasoned **DevOps and Cloud Architect** with over a decade of hands-on exp
   <a href="https://github.com/richiesebastian" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" />
   </a>
+  <a href="https://dev.to/richiesebastian" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=black" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@richiesebastian" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=black" alt="Medium" />
+  </a>
 </div>
+
 
 
 ---
