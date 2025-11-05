@@ -60,12 +60,23 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats and Streak Stats side-by-side with smaller width -->
-  <img src="https://github-readme-stats.vercel.app/api?username=richiesebastian&show_icons=true&theme=radical&hide_border=true" width="45%" alt="Richie's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=richiesebastian&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="Richie's Streak Stats" />
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="90%" />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=richiesebastian&theme=radical&hide_border=true"
+    width="45%"
+    alt="Streak Stats"
+  />
+
+  <!-- Contribution Snake -->
+  <img 
+    src="https://raw.githubusercontent.com/richiesebastian/richiesebastian/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="Contribution Snake Animation"
+  />
 </div>
+
+
 
 ---
 
