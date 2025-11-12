@@ -5,7 +5,7 @@
 
 ---
 
-<span style="font-size: 1.50em;">I'm a seasoned DevOps and Cloud Architect with over a decade of hands-on experience in Cloud Computing, Infrastructure Automation, Big Data Solutions, and Container Orchestration. As the Head of DevOps at Avesha Systems, I lead a team of engineers in delivering scalable, secure, and high-performance infrastructure solutions across multi-cloud environments.</span>
+<span style="font-size: 1.50em;">I'm a seasoned DevOps and Cloud Architect with over a decade of hands-on experience in Cloud Computing, Infrastructure Automation, Big Data Solutions, and Container Orchestration.</span>
 
 ---
 
@@ -89,7 +89,6 @@
 ---
 ### 🚀 About Me
 
-- 🌱 **Current Role**: **Head of DevOps, Engineering Manager** at **Avesha Systems**
 - 🛠️ **Experience**: Over 10 years in **DevOps**, **Cloud Engineering**, and **Infrastructure Automation** with a proven track record managing large-scale cloud deployments.
 - 🏗️ **Passionate** about building robust **CI/CD pipelines**, **multi-cloud architectures**, and fully automated infrastructure for efficiency and scalability.
 - 🌐 **Specializations**: 
